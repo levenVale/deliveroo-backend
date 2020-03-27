@@ -4,7 +4,7 @@
 	<img
 			width="600"
 			alt="demo"
-			src="https://github.com/sebkpf/deliveroo-react/blob/master/documentation/demo.png">
+			src="https://github.com/sebkpf/deliveroo-backend/blob/master/documentation/demo.png">
 </p>
 
 <p align="center">
