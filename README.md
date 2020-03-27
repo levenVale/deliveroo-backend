@@ -21,14 +21,14 @@
 
 ### Running the project
 
-Clone this repository :
+Clone this repository:
 
 ```
 git clone https://github.com/sebkpf/deliveroo-backend.git
 cd deliveroo-backend
 ```
 
-Install packages :
+Install packages:
 
 ```
 npm install
